@@ -1,6 +1,6 @@
 # Messages Keywords Counts
 
-## Live App:  [Web-App](https://chetanmajithiya.github.io/Messages-Keyword-Count-React-App/)
+## Live App:  [Web-App](https://messages-keyword-counts.web.app/)
 
 ## Available Scripts
 
