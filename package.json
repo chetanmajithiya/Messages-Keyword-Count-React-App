@@ -2,6 +2,7 @@
   "name": "keywordscountreact",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://chetanmejithiya.github.io/messages-keywords-counts",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
@@ -20,7 +21,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint --fix .",
-    "lint-check": "eslint ."
+    "lint-check": "eslint .",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
